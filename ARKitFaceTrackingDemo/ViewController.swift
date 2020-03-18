@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  ARFaceTrackingDemo
+//  ARKitFaceTrackingDemo
 //
 //  Created by Ayana Osawa on 2020/03/17.
 //  Copyright © 2020 Ayaos. All rights reserved.
